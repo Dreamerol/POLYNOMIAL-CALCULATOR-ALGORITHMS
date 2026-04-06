@@ -27,17 +27,40 @@
 
 ---
 
-## 🚀 Overview
+## 📖 Overview
+This repository contains a **C++ application** focused on **polynomials**. The project implements fundamental operations and advanced algorithms, giving users the ability to manipulate and analyze polynomials programmatically.
 
-This repository contains a **C++ application for working with polynomials**. It implements several fundamental operations and algorithms to manipulate and analyze polynomials directly in code. The project provides tools to perform a variety of polynomial-related tasks, including:
+You can perform tasks such as:  
+- ➕ **Addition and subtraction** of polynomials  
+- 📐 **Vieta’s formulas** for roots analysis  
+- 🧮 **Greatest Common Divisor (GCD)** of two polynomials  
+- 🔍 **Searching for rational roots**  
+- ✨ **Other algebraic operations** on polynomial expressions  
 
-- Addition and subtraction of polynomials  
-- Vieta’s formulas  
-- Finding the **greatest common divisor (GCD)** of two polynomials  
-- Searching for rational roots  
-- Other useful algebraic operations on polynomial expressions  
+This project is **designed for learning**, **experimenting with algorithms**, and **understanding data structures in C++**.
 
-The implementation is written entirely in C++, designed for **learning and experimentation** with mathematical algorithms and low‑level data handling.
+---
+
+## 🏗️ Project Structure
+
+Polynomial-Calculator/
+│
+├── src/ # Source files
+│ ├── main.cpp # Entry point
+│ ├── polynomial.cpp # Polynomial class implementation
+│ ├── polynomial.h # Polynomial class header
+│ ├── algorithms.cpp # Helper algorithms (GCD, roots, etc.)
+│ └── algorithms.h # Header for algorithms
+│
+├── tests/ # Test cases
+│ └── test_polynomial.cpp
+│
+├── examples/ # Example usage scripts
+│ └── demo.cpp
+│
+├── CMakeLists.txt # Build configuration (if using CMake)
+├── README.md # Project description and instructions
+└── LICENSE
 
 ---
 
@@ -98,3 +121,32 @@ The implementation is written entirely in C++, designed for **learning and exper
 - Useful both as a **learning project** and as a basis for extending polynomial tools  
 
 ## 📂 Project Structure
+
+-------------------------------------------------------------------------------
+
+<p align="center">
+🚀 <b>POLYNOMIAL CALCULATOR – MATH SOLVER & ALGORITHMS</b>
+</p>
+
+<p align="center">
+💻 A C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation.
+</p>
+
+---
+
+## 📖 Overview
+This repository contains a **C++ application** focused on **polynomials**. The project implements fundamental operations and advanced algorithms, giving users the ability to manipulate and analyze polynomials programmatically.
+
+You can perform tasks such as:  
+- ➕ **Addition and subtraction** of polynomials  
+- 📐 **Vieta’s formulas** for roots analysis  
+- 🧮 **Greatest Common Divisor (GCD)** of two polynomials  
+- 🔍 **Searching for rational roots**  
+- ✨ **Other algebraic operations** on polynomial expressions  
+
+This project is **designed for learning**, **experimenting with algorithms**, and **understanding data structures in C++**.
+
+---
+
+## 🏗️ Project Structure
+
