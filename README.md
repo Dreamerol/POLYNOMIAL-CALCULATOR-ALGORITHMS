@@ -1,5 +1,7 @@
 <h2 align="center">POLYNOMIAL CALCULATOR – MATH SOLVER & ALGORITHMS</h2>
 
+</p> <p align="center"> 💻 A C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation. </p>
+
 ---
 
 ![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/7909fe23c9912d7fec2b18a5d963079a9561e1e1/ZPOLYNOMY2.jpg)
