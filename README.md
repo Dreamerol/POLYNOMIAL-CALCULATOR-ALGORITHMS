@@ -108,16 +108,6 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 - Useful both as a **learning project** and as a basis for extending polynomial tools  
 
 
--------------------------------------------------------------------------------
-
-<p align="center">
-🚀 <b>POLYNOMIAL CALCULATOR – MATH SOLVER & ALGORITHMS</b>
-</p>
-
-<p align="center">
-💻 A C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation.
-</p>
-
 ---
 
 <p align="center">
