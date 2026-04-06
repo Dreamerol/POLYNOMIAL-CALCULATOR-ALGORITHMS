@@ -43,7 +43,7 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 
 ## 🏗️ Project Structure
 
-![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/7909fe23c9912d7fec2b18a5d963079a9561e1e1/ZPOLYNOMY2.jpg)
+![](https://github.com/Dreamerol/Dreamerol/blob/f94b6b1a684e1d338d8fd50e4e4d275d85f87c16/Polinom.png)
 
 
 ---
