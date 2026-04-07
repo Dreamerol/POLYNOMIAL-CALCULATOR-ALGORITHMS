@@ -3,7 +3,8 @@
 ## </p> <p align="center"> *C++ application for mastering polynomial operations, exploring mathematical algorithms, and experimenting with low-level computation.* </p>
 
 
-![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/bffd69b5cc7c5e2bff41e3d58da194bafd875e27/MATH140.jpg)
+![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/992fd2d040b50ce71e58d732090cd255ec3f2270/COMP22.jpg)
+
 
 
 ---
