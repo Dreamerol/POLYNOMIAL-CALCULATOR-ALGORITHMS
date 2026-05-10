@@ -165,7 +165,7 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 - Useful both as a **learning project** and as a basis for extending polynomial tools
 
 
----
+
 
 
 <p align="center">
