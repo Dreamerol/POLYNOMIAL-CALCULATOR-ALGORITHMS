@@ -160,7 +160,9 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 </p>
 
 
-<br>
+
+
+---
 
 
 
