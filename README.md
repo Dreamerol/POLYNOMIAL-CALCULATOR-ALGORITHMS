@@ -130,18 +130,6 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 
 ---
 
-## 🛠️ Implementation Details
-
-- Written in **C++**, focused on algorithmic clarity  
-- Handles polynomial coefficients and operations directly  
-- Designed as a **console application** (no GUI)  
-- Useful both as a **learning project** and as a basis for extending polynomial tools
-
-
-
-
----
-
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -158,6 +146,20 @@ This project is **designed for learning**, **experimenting with algorithms**, an
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
+
+
+
+---
+
+
+
+
+## 🛠️ Implementation Details
+
+- Written in **C++**, focused on algorithmic clarity  
+- Handles polynomial coefficients and operations directly  
+- Designed as a **console application** (no GUI)  
+- Useful both as a **learning project** and as a basis for extending polynomial tools
 
 
 
