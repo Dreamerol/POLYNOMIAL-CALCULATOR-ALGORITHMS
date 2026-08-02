@@ -4,12 +4,6 @@
 
 
 
-![BOOKS](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MATH140.jpg)
-
-
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-MATH.jpg
-
-
 
 <div align="center">
 
